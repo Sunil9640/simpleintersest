@@ -1,2 +1,1 @@
-# simpleintersest
-simple interest
+# Simple intresr-project-

@@ -1,0 +1,36 @@
+*{
+    padding: 10px;
+}
+body {
+    background:linear-gradient(85deg,rgb(225, 253, 14),rgb(132, 117, 245));
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    color:green;}
+
+.years{
+    padding-top: 5px;
+}
+
+.header{
+    text-align: center;
+}
+.amount,.rate,.Years{
+    padding-bottom: 20px;
+}
+footer{
+    position:fixed;
+    justify-content: center;
+    bottom: 0;
+}
+button{
+    height: 45px;
+    width: 150;
+    border-radius:5px ;
+}
+button:hover{
+    background-color: rgb(251, 105, 105);
+}
